@@ -11,7 +11,7 @@ Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than 2026-02-13,and no later than 2026-09-01:
+The following elements are made available for a public review period ending no earlier than 2026-03-02,and no later than 2026-09-01:
 
 * <a href="https://github.com/SMPTE/st2138-50/blob/main/34CS-PCD-ST-2138-50-Catena-Authenticity-Integrity-Access%20Control-Confidentiality-Availability-2026-02-16.pdf">ST-2138-50-Catena-Authenticity-Integrity-Access-Control-Confidentiality-Availability-2026-02-16.pdf</a>
 * <a href="https://github.com/SMPTE/st2138-a.git">https://github.com/SMPTE/st2138-a.git</a>
